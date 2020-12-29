@@ -1,0 +1,1 @@
+export const ATOM = require('./atom.png');
